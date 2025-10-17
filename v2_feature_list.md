@@ -62,11 +62,11 @@
 - Manage marketplace store banners (admin banner CRUD + display)
 - Provide public marketplace widgets and search (JS embed + search APIs)
 
-### Core Products - (7 days)
+### Core Products - (5 days)
 - Import UVP prices and customer reviews (competitive analysis sync)
 - Manage product brand data (brand import/update CSV and assets)
 
-### Droptienda (DT) - (7 - 10 days)
+### Droptienda (DT) - (5 days)
 - Manage Droptienda chat and templates (chat, opt-in, editor templates)
 - Payment success relays for DT (Stripe/Paypal invoice success forwarding)
 - Test and finalize DT <> DRM sync
@@ -80,3 +80,12 @@
 ### APIs and Webhooks (7 days)
 - Handle Zapier integrations (order creation, tags, customer leads)
 - Receive Mailgun events and email tracking (open/fail webhooks, tracking links)
+
+### Finance Export Module - (3 days)
+- Develop Finace Export Module in V2
+
+### Mirakl Channels - (2 days)
+- Add Missing Channels in Dropmatix V2
+
+### Orders and Trackings - (7 days)
+- Transfer Order and tracking sync module in V2
