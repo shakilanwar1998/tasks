@@ -71,10 +71,10 @@
 - Payment success relays for DT (Stripe/Paypal invoice success forwarding)
 - Test and finalize DT <> DRM sync
 
-### Dropcampus - (2 days)
+### Dropcampus - (3 days)
 - Run Dropcampus sync and tariff checks (customer/transaction sync, validity APIs)
 
-### Customers - (2 days)
+### Customers - (3 days)
 - Supplier/customer public registration flows (frames, T&C/policy pages)
 
 ### APIs and Webhooks (7 days)
@@ -87,5 +87,5 @@
 ### Mirakl Channels - (2 days)
 - Add Missing Channels in Dropmatix V2
 
-### Orders and Trackings - (7 days)
+### Orders and Trackings - (7 - 10 days)
 - Transfer Order and tracking sync module in V2
