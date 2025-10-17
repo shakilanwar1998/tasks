@@ -88,4 +88,4 @@
 - Add Missing Channels in Dropmatix V2
 
 ### Orders and Trackings - (7 - 10 days)
-- Transfer Order and tracking sync module in V2
+- Transfer Order and tracking sync background processes in V2
