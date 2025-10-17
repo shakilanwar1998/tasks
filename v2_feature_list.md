@@ -52,9 +52,9 @@
 
 ---
 
-## Features we still need to implement in V2 [Estimated Timeline: 15 - 20 days]
+## Features we still need to implement in V2 [Estimated Timeline: 40 - 50 working days]
 
-### Marketplace - (7 days)
+### Marketplace - (10 - 14 days)
 - Manage and import marketplace collections
 - Add and manage marketplace products (public embeddables + disconnect flow)
 - Manage parent and subcategories (public store access + filters)
@@ -62,21 +62,21 @@
 - Manage marketplace store banners (admin banner CRUD + display)
 - Provide public marketplace widgets and search (JS embed + search APIs)
 
-### Core Products - (2 days)
+### Core Products - (7 days)
 - Import UVP prices and customer reviews (competitive analysis sync)
 - Manage product brand data (brand import/update CSV and assets)
 
-### Droptienda (DT) - (3 - 5 days)
+### Droptienda (DT) - (7 - 10 days)
 - Manage Droptienda chat and templates (chat, opt-in, editor templates)
 - Payment success relays for DT (Stripe/Paypal invoice success forwarding)
 - Test and finalize DT <> DRM sync
 
-### Dropcampus - (1 day)
+### Dropcampus - (2 days)
 - Run Dropcampus sync and tariff checks (customer/transaction sync, validity APIs)
 
-### Customers - (1 day)
+### Customers - (2 days)
 - Supplier/customer public registration flows (frames, T&C/policy pages)
 
-### APIs and Webhooks (3 days)
+### APIs and Webhooks (7 days)
 - Handle Zapier integrations (order creation, tags, customer leads)
 - Receive Mailgun events and email tracking (open/fail webhooks, tracking links)
