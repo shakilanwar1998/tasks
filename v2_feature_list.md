@@ -52,7 +52,7 @@
 
 ---
 
-## Features we still need to implement in V2 [Estimated Timeline: 40 - 50 working days]
+## Features we still need to implement in V2 [Estimated Timeline: 48 - 55 working days]
 
 ### Marketplace - (10 - 14 days)
 - Manage and import marketplace collections
